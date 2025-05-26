@@ -5,7 +5,7 @@ Welcome to **ThaiSarc V1**, a groundbreaking resource specifically designed for 
 ---
 
 ## 🌟 Key Features
-- **Balanced Dataset**: ThaiSarcV1 consists of 1,128 carefully curated Thai political news headlines, evenly split into 514 sarcastic and 514 non-sarcastic samples to ensure unbiased analysis.
+- **Balanced Dataset**: ThaiSarcV1 consists of 1,128 carefully curated Thai political news headlines, evenly split into 564 sarcastic and 564 non-sarcastic samples to ensure unbiased analysis.
 - **High Annotation Reliability**: A mutual agreement rate of 92% among annotators highlights the robustness of the dataset.
 - **Novel Dataset**: The first publicly available dataset focusing on sarcasm detection in Thai political news headlines, offering a valuable resource for Thai NLP research.
 - **Comprehensive Benchmarks**: Evaluation includes cutting-edge discriminative models (e.g., WangchanBERTa, BERT-base) and generative models (e.g., fine-tuned GPT-4o).
