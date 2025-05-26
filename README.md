@@ -1,11 +1,11 @@
 # ThaiSarc_V1: A Comprehensive Dataset for Sarcasm Detection in Thai Political News Headlines
 
-Welcome to **ThaiSarc V1**, a groundbreaking resource specifically designed for sarcasm detection in Thai political news headlines. This project represents a significant milestone in Natural Language Processing (NLP) for Thai-language tasks, combining state-of-the-art deep learning and generative AI models to address the unique challenges of sarcasm identification in the Thai context. ThaiSarc_V1 not only contributes to the advancement of computational linguistics but also fosters media literacy by enabling nuanced understanding of sarcastic language in political discourse.
+Welcome to **ThaiSarc V1**, a groundbreaking resource specifically designed for sarcasm detection in Thai political news headlines. This project represents a significant milestone in Natural Language Processing (NLP) for Thai-language tasks, combining state-of-the-art deep learning and generative AI models to address the unique challenges of sarcasm identification in the Thai context. ThaiSarcV1 not only contributes to the advancement of computational linguistics but also fosters media literacy by enabling nuanced understanding of sarcastic language in political discourse.
 
 ---
 
 ## 🌟 Key Features
-- **Balanced Dataset**: ThaiSarc_V1 consists of 1,128 carefully curated Thai political news headlines, evenly split into 514 sarcastic and 514 non-sarcastic samples to ensure unbiased analysis.
+- **Balanced Dataset**: ThaiSarcV1 consists of 1,128 carefully curated Thai political news headlines, evenly split into 514 sarcastic and 514 non-sarcastic samples to ensure unbiased analysis.
 - **High Annotation Reliability**: A mutual agreement rate of 92% among annotators highlights the robustness of the dataset.
 - **Novel Dataset**: The first publicly available dataset focusing on sarcasm detection in Thai political news headlines, offering a valuable resource for Thai NLP research.
 - **Comprehensive Benchmarks**: Evaluation includes cutting-edge discriminative models (e.g., WangchanBERTa, BERT-base) and generative models (e.g., fine-tuned GPT-4o).
