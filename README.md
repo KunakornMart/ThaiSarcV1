@@ -78,7 +78,7 @@ This study also aims to answer key research questions:
 1. How effectively do discriminative models perform in sarcasm detection for Thai political news headlines?
 2. Can generative AI models, such as GPT-4o, surpass discriminative models in identifying sarcasm?
 3. What are the implications of applying these models to real-world tasks, such as sentiment analysis and misinformation detection?
-4. 
+   
 ---
 
 ## 🔧 Methodology
