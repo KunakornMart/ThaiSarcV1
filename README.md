@@ -135,7 +135,7 @@ Key metrics included **Accuracy**, **Precision**, **Recall**, and **F1-Score**, 
 - **Kunakorn Pruksakorn**
 - **Niwat Wuttisrisiriporn**
 - **Narongkiat Phuengwong**
-- **Advisor**: Ohm Sornil
+- **Advisor : Ohm Sornil**
 
 ---
 
