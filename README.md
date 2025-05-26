@@ -107,8 +107,8 @@ Key metrics included **Accuracy**, **Precision**, **Recall**, and **F1-Score**, 
 ### Discriminative Models Performance (Encoder)
 | Model            | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |-------------------|-------------|---------------|------------|--------------|
-| WangchanBERTa    | 80.59       | 80.69         | 80.59      | 80.59        |
-| BERT-base        | 65.88       | 66.63         | 65.88      | 65.50        |
+| WangchanBERTa (Monolingual)    | 80.59       | 80.69         | 80.59      | 80.59        |
+| BERT-base (Multilingual)       | 65.88       | 66.63         | 65.88      | 65.50        |
 
 ### Generative  Models  Performance   (Decoder)
 | Model                       | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
