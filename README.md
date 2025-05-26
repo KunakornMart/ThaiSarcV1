@@ -45,7 +45,7 @@ ThaiSarc V1 headlines were sourced from the following news agencies:
 
 ## 📥 Download and Usage
 
-Access ThaiSarc V1 on GitHub: [ThaiSarc_V1 GitHub Repository](https://github.com/KunakornMart/ThaiSarcV1)
+Access ThaiSarc V1 on GitHub: [ThaiSarcV1 GitHub Repository](https://github.com/KunakornMart/ThaiSarcV1)
 
 ### Steps to Use the Dataset:
 
